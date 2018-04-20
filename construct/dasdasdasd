@@ -1,0 +1,3 @@
+#TestPage#
+Label:Top=62 Left=70  FontStyle= FontCharset=1 FontColor=536870912 FontSize=0 FontName="default" Caption="Текст 1"
+Answer:Top=186 Left=96 Checked=1  FontStyle= FontCharset=1 FontColor=536870912 FontSize=0 FontName="default" Caption="Вариант ответа 1"
